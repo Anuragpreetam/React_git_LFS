@@ -1,0 +1,38 @@
+/* h1{
+    font-size: 2rem;
+} */
+/* .mainbody{
+    display: flex;
+    flex-wrap: wrap;
+} */
+.cards-component{
+    padding: 2rem;
+    border: 1px solid violet;
+    margin: 1rem;
+    text-align: center;
+    font-size: 4rem;
+    background-color: lightblue;
+    
+}
+.cards-component:hover{
+    border: 10px solid purple;
+}
+
+.all-cards-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+button{
+    margin: 2rem;
+}
+
+button:hover{
+    font-size: 4rem;
+}
+
+ul>li{
+  list-style: none;
+}
+
+ 
