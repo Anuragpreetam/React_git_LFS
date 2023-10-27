@@ -1,0 +1,19 @@
+{
+  "name": "react_git_lfs",
+  "version": "1.0.0",
+  "description": "React_git_LFS",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anuragpreetam/React_git_LFS.git"
+  },
+  "author": "Anurag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anuragpreetam/React_git_LFS/issues"
+  },
+  "homepage": "https://github.com/Anuragpreetam/React_git_LFS#readme"
+}
